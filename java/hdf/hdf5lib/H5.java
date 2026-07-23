@@ -19300,7 +19300,7 @@ public class H5 implements java.io.Serializable {
     /**
      * @defgroup JH5S Java Dataspace (H5S) Interface
      *
-     * @see H5S, C-API
+     * @ref H5S, C-API
      *
      * @ref H5S_UG, User Guide
      **/
@@ -20774,7 +20774,7 @@ public class H5 implements java.io.Serializable {
     /**
      * @defgroup JH5T Java Datatype (H5T) Interface
      *
-     * @see H5T, C-API
+     * @ref H5T, C-API
      *
      * @ref H5T_UG, User Guide
      **/
@@ -23220,7 +23220,7 @@ public class H5 implements java.io.Serializable {
     /**
      * @defgroup JH5VL Java VOL Connector (H5VL) Interface
      *
-     * @see H5VL, C-API
+     * @ref H5VL, C-API
      *
      * @ref H5VL_UG, User Guide
      **/
@@ -23559,7 +23559,7 @@ public class H5 implements java.io.Serializable {
     /**
      * @defgroup JH5Z Java Filter (H5Z) Interface
      *
-     * @see H5Z, C-API
+     * @ref H5Z, C-API
      *
      * @ref H5Z_UG, User Guide
      **/
